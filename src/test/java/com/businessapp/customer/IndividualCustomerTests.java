@@ -8,10 +8,7 @@ import static org.junit.Assert.*;
 public class IndividualCustomerTests
 {
     IndividualCustomer person = new IndividualCustomer();
-    
-    
-    
-    //test
+   
     @Test
     public void testFirstName()
     {
